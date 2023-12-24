@@ -1,1 +1,1 @@
-# linkedin_webscraping
+# nakuri_webscraping
